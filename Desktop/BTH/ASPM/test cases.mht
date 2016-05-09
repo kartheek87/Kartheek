@@ -1,0 +1,2298 @@
+MIME-Version: 1.0
+X-Document-Type: Worksheet
+Content-Location: file:///C:/50625913/testcases.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="windows-1252"
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dwindows-125=
+2">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 15">
+<link rel=3DFile-List href=3D"testcases_files/filelist.xml">
+<style id=3D"test cases_21288_Styles">
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+.xl1521288
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl6521288
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:right;
+	vertical-align:top;
+	border:none;
+	background:#F4CCCC;
+	mso-pattern:#F4CCCC none;
+	white-space:normal;}
+.xl6621288
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:top;
+	border-top:none;
+	border-right:.5pt solid black;
+	border-bottom:none;
+	border-left:none;
+	background:#F4CCCC;
+	mso-pattern:#F4CCCC none;
+	white-space:normal;}
+.xl6721288
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border:none;
+	background:#F4CCCC;
+	mso-pattern:#F4CCCC none;
+	white-space:normal;}
+.xl6821288
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:top;
+	border:none;
+	background:#B6D7A8;
+	mso-pattern:#B6D7A8 none;
+	white-space:normal;}
+.xl6921288
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:top;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl7021288
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:top;
+	border:none;
+	background:#666666;
+	mso-pattern:#666666 none;
+	white-space:normal;}
+.xl7121288
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:top;
+	border:none;
+	background:#666666;
+	mso-pattern:#666666 none;
+	white-space:normal;}
+.xl7221288
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:top;
+	border:none;
+	background:#666666;
+	mso-pattern:#666666 none;
+	white-space:normal;}
+.xl7321288
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:top;
+	border-top:none;
+	border-right:.5pt solid black;
+	border-bottom:none;
+	border-left:none;
+	background:#666666;
+	mso-pattern:#666666 none;
+	white-space:normal;}
+.xl7421288
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:9.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:top;
+	border:none;
+	background:#C9DAF8;
+	mso-pattern:#C9DAF8 none;
+	white-space:normal;}
+.xl7521288
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:top;
+	border:none;
+	background:#C9DAF8;
+	mso-pattern:#C9DAF8 none;
+	white-space:normal;}
+.xl7621288
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:top;
+	border-top:none;
+	border-right:.5pt solid black;
+	border-bottom:none;
+	border-left:none;
+	background:#C9DAF8;
+	mso-pattern:#C9DAF8 none;
+	white-space:normal;}
+.xl7721288
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:top;
+	border:none;
+	background:#C9DAF8;
+	mso-pattern:#C9DAF8 none;
+	white-space:normal;}
+.xl7821288
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:#6AA84F;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:top;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl7921288
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:top;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl8021288
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:top;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl8121288
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:9.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:top;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl8221288
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:#38761D;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:top;
+	border-top:none;
+	border-right:.5pt solid black;
+	border-bottom:none;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl8321288
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:red;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:top;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl8421288
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:top;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl8521288
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:top;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl8621288
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:#9C0006;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	background:#FFC7CE;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl8721288
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:top;
+	border-top:none;
+	border-right:.5pt solid black;
+	border-bottom:none;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl8821288
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:#006100;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:top;
+	border:none;
+	background:#C6EFCE;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl8921288
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:#006100;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:top;
+	border:none;
+	background:#C6EFCE;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl9021288
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:#006100;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:top;
+	border:none;
+	background:#C6EFCE;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl9121288
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:#006100;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:top;
+	border-top:none;
+	border-right:.5pt solid black;
+	border-bottom:none;
+	border-left:none;
+	background:#C6EFCE;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl9221288
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:top;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl9321288
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border:none;
+	background:#F4CCCC;
+	mso-pattern:#F4CCCC none;
+	white-space:normal;}
+.xl9421288
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:blue;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:top;
+	border:none;
+	background:#F4CCCC;
+	mso-pattern:#F4CCCC none;
+	white-space:normal;}
+.xl9521288
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:top;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl9621288
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:top;
+	border-top:none;
+	border-right:.5pt solid black;
+	border-bottom:none;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl9721288
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:#9BBB59;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:top;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl9821288
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl9921288
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl10021288
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:top;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl10121288
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:#9BBB59;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl10221288
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl10321288
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:#38761D;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:top;
+	border-top:none;
+	border-right:.5pt solid black;
+	border-bottom:none;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl10421288
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl10521288
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:none;
+	border-bottom:none;
+	border-left:.5pt solid black;
+	background:#F4CCCC;
+	mso-pattern:#F4CCCC none;
+	white-space:normal;}
+.xl10621288
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl10721288
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+-->
+</style>
+</head>
+
+<body>
+<!--[if !excel]>&nbsp;&nbsp;<![endif]-->
+<!--The following information was generated by Microsoft Excel's Publish as=
+ Web
+Page wizard.-->
+<!--If the same item is republished from Excel, all information between the=
+ DIV
+tags will be replaced.-->
+<!----------------------------->
+<!--START OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD -->
+<!----------------------------->
+
+<div id=3D"test cases_21288" align=3Dcenter x:publishsource=3D"Excel">
+
+<table border=3D0 cellpadding=3D0 cellspacing=3D0 width=3D3362 style=3D'bor=
+der-collapse:
+ collapse;table-layout:fixed;width:2532pt'>
+ <col width=3D65 style=3D'mso-width-source:userset;mso-width-alt:2377;width=
+:49pt'>
+ <col width=3D119 style=3D'mso-width-source:userset;mso-width-alt:4352;widt=
+h:89pt'>
+ <col width=3D261 style=3D'mso-width-source:userset;mso-width-alt:9545;widt=
+h:196pt'>
+ <col width=3D243 style=3D'mso-width-source:userset;mso-width-alt:8886;widt=
+h:182pt'>
+ <col width=3D187 style=3D'mso-width-source:userset;mso-width-alt:6838;widt=
+h:140pt'>
+ <col width=3D54 span=3D2 style=3D'mso-width-source:userset;mso-width-alt:1=
+974;
+ width:41pt'>
+ <col width=3D66 style=3D'mso-width-source:userset;mso-width-alt:2413;width=
+:50pt'>
+ <col width=3D125 style=3D'mso-width-source:userset;mso-width-alt:4571;widt=
+h:94pt'>
+ <col width=3D54 span=3D10 style=3D'mso-width-source:userset;mso-width-alt:=
+1974;
+ width:41pt'>
+ <col width=3D133 style=3D'mso-width-source:userset;mso-width-alt:4864;widt=
+h:100pt'>
+ <col width=3D101 span=3D15 style=3D'width:76pt'>
+ <tr height=3D41 style=3D'mso-height-source:userset;height:30.75pt'>
+  <td height=3D41 class=3Dxl6521288 width=3D65 style=3D'height:30.75pt;widt=
+h:49pt'>&nbsp;</td>
+  <td class=3Dxl8621288 width=3D119 style=3D'width:89pt'>&nbsp;</td>
+  <td colspan=3D2 class=3Dxl9421288 width=3D504 style=3D'width:378pt'><a
+  href=3D"http://localhost:8080/food/Foodsavers/Sample/index.html%20functio=
+nality%20testing">http://localhost:8080/food/Foodsavers/Sample/index.html<b=
+r>
+    <span style=3D'mso-spacerun:yes'> </span>functionality testing</a></td>
+  <td class=3Dxl6621288 width=3D187 style=3D'width:140pt'>&nbsp;</td>
+  <td colspan=3D4 class=3Dxl10521288 width=3D299 style=3D'border-left:none;=
+width:226pt'>Cross-browser
+  testing</td>
+  <td class=3Dxl6721288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl6721288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl6721288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl6721288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl6721288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl6721288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl6721288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl6721288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl6721288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl6721288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl6821288 width=3D133 style=3D'width:100pt'>&nbsp;</td>
+  <td class=3Dxl6821288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl6821288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl6821288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl6821288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl6821288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl6821288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl6821288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl6921288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl6921288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl6921288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl6921288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl6921288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl6921288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl6921288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl6921288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+ </tr>
+ <tr height=3D2 style=3D'mso-height-source:userset;height:1.5pt'>
+  <td height=3D2 class=3Dxl7021288 width=3D65 style=3D'height:1.5pt;width:4=
+9pt'>&nbsp;</td>
+  <td class=3Dxl7021288 width=3D119 style=3D'width:89pt'>&nbsp;</td>
+  <td class=3Dxl7121288 width=3D261 style=3D'width:196pt'>&nbsp;</td>
+  <td class=3Dxl7221288 width=3D243 style=3D'width:182pt'>&nbsp;</td>
+  <td class=3Dxl7321288 width=3D187 style=3D'width:140pt'>&nbsp;</td>
+  <td class=3Dxl7021288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl7021288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl7021288 width=3D66 style=3D'width:50pt'>&nbsp;</td>
+  <td class=3Dxl7021288 width=3D125 style=3D'width:94pt'>&nbsp;</td>
+  <td class=3Dxl7021288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl7021288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl7021288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl7021288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl7021288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl7021288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl7021288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl7021288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl7021288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl7021288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl7221288 width=3D133 style=3D'width:100pt'>&nbsp;</td>
+  <td class=3Dxl7221288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl7221288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl7221288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl7221288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl7221288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl7221288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl7221288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl7221288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl7221288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl7221288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl7221288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl7221288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl7221288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl7221288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl7221288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+ </tr>
+ <tr height=3D100 style=3D'height:75.0pt'>
+  <td height=3D100 class=3Dxl8921288 width=3D65 style=3D'height:75.0pt;widt=
+h:49pt'>Test
+  Status</td>
+  <td class=3Dxl8921288 width=3D119 style=3D'width:89pt'>Page/Area</td>
+  <td class=3Dxl9021288 width=3D261 style=3D'width:196pt'>Scope</td>
+  <td class=3Dxl9021288 width=3D243 style=3D'width:182pt'>Expected result</=
+td>
+  <td class=3Dxl9121288 width=3D187 style=3D'width:140pt'>Actual result</td>
+  <td class=3Dxl8921288 width=3D54 style=3D'width:41pt'>Win10<br>
+    Chro</td>
+  <td class=3Dxl8821288 width=3D54 style=3D'width:41pt'>Win 10 Firefox<span
+  style=3D'mso-spacerun:yes'> </span></td>
+  <td class=3Dxl8821288 width=3D66 style=3D'width:50pt'>Win 10 Internet Exp=
+lorer</td>
+  <td class=3Dxl8821288 width=3D125 style=3D'width:94pt'>Issue</td>
+  <td class=3Dxl7921288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl7921288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl7921288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl7921288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl8421288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl8421288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl8421288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl8421288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl8421288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl8421288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D133 style=3D'width:100pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl7421288 width=3D65 style=3D'height:12.75pt;widt=
+h:49pt'>&nbsp;</td>
+  <td colspan=3D2 class=3Dxl9821288>Sprint 1</td>
+  <td class=3Dxl7521288 width=3D243 style=3D'width:182pt'>&nbsp;</td>
+  <td class=3Dxl7621288 width=3D187 style=3D'width:140pt'>&nbsp;</td>
+  <td class=3Dxl7721288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl7921288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl7921288 width=3D66 style=3D'width:50pt'>&nbsp;</td>
+  <td class=3Dxl7921288 width=3D125 style=3D'width:94pt'>&nbsp;</td>
+  <td class=3Dxl7921288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl7921288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl7921288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl7921288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl8421288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl8421288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl8421288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl8421288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl8421288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl8421288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D133 style=3D'width:100pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+ </tr>
+ <tr height=3D119 style=3D'height:89.25pt'>
+  <td height=3D119 class=3Dxl7821288 width=3D65 style=3D'height:89.25pt;wid=
+th:49pt'>Ready</td>
+  <td class=3Dxl7921288 width=3D119 style=3D'width:89pt'>Homepage<span
+  style=3D'mso-spacerun:yes'> </span></td>
+  <td class=3Dxl9221288 width=3D261 style=3D'width:196pt'>Scenario: User vi=
+ews and
+  clicks on header links<br>
+    <br>
+    Actions:<br>
+    1) Click on logo<br>
+    2) Click on main nav links and dropdowns.<br>
+    </td>
+  <td class=3Dxl8021288 width=3D243 style=3D'width:182pt'><span
+  style=3D'mso-spacerun:yes'> </span>verify content/design<br>
+    - main nav and dropdown links take user to those sections<br>
+    </td>
+  <td class=3Dxl8721288 width=3D187 style=3D'width:140pt'>All links are wor=
+ked
+  properly and logo click redirects to homepage.</td>
+  <td class=3Dxl7921288 width=3D54 style=3D'width:41pt'>Pass</td>
+  <td class=3Dxl7921288 width=3D54 style=3D'width:41pt'>Fail 1</td>
+  <td class=3Dxl7921288 width=3D66 style=3D'width:50pt'>PASS</td>
+  <td class=3Dxl7921288 width=3D125 style=3D'width:94pt'>Homepage video not=
+ displayed
+  in firefox</td>
+  <td class=3Dxl7921288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl7921288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl7921288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl7921288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl8421288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl8421288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl8421288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl8421288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl8421288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl8421288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D133 style=3D'width:100pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+ </tr>
+ <tr height=3D68 style=3D'height:51.0pt'>
+  <td height=3D68 class=3Dxl7821288 width=3D65 style=3D'height:51.0pt;width=
+:49pt'>Ready</td>
+  <td class=3Dxl9221288 width=3D119 style=3D'width:89pt'>About us page</td>
+  <td class=3Dxl9221288 width=3D261 style=3D'width:196pt'>Scenario: User vi=
+ew data in
+  about us page<br>
+    <br>
+    Test Conditions:<br>
+    1) click on about us section</td>
+  <td class=3Dxl9521288 width=3D243 style=3D'width:182pt'>Data should be di=
+splayed to
+  user</td>
+  <td class=3Dxl9621288 width=3D187 style=3D'width:140pt'>Data displayed to=
+ the user</td>
+  <td class=3Dxl9221288 width=3D54 style=3D'width:41pt'>PASS</td>
+  <td class=3Dxl9221288 width=3D54 style=3D'width:41pt'>PASS</td>
+  <td class=3Dxl9221288 width=3D66 style=3D'width:50pt'>PASS</td>
+  <td class=3Dxl7921288 width=3D125 style=3D'width:94pt'>&nbsp;</td>
+  <td class=3Dxl7921288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl7921288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl7921288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl7921288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl8421288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl8421288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl8421288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl8421288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl8421288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl8421288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D133 style=3D'width:100pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+ </tr>
+ <tr height=3D85 style=3D'height:63.75pt'>
+  <td height=3D85 class=3Dxl7821288 width=3D65 style=3D'height:63.75pt;widt=
+h:49pt'>Ready</td>
+  <td class=3Dxl9221288 width=3D119 style=3D'width:89pt'>Stores and offers<=
+/td>
+  <td class=3Dxl9221288 width=3D261 style=3D'width:196pt'>Scenario: User ca=
+n select
+  store and view offers<br>
+    <br>
+    Test Conditions:<br>
+    1) guest login. 2)select store<span style=3D'mso-spacerun:yes'> </span>=
+</td>
+  <td class=3Dxl9221288 width=3D243 style=3D'width:182pt'>offers should be =
+displayed
+  when user clicked</td>
+  <td class=3Dxl9221288 width=3D187 style=3D'width:140pt'>offers should be =
+displayed
+  when user clicked</td>
+  <td class=3Dxl7921288 width=3D54 style=3D'width:41pt'>Pass</td>
+  <td class=3Dxl9221288 width=3D54 style=3D'width:41pt'>Fail</td>
+  <td class=3Dxl9221288 width=3D66 style=3D'width:50pt'>PASS</td>
+  <td class=3Dxl9221288 width=3D125 style=3D'width:94pt'>Images are not dis=
+played
+  correctly</td>
+  <td class=3Dxl7921288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl7921288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl7921288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl7921288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl8421288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl8421288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl8421288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl8421288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl8421288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl8421288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D133 style=3D'width:100pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+ </tr>
+ <tr height=3D85 style=3D'height:63.75pt'>
+  <td height=3D85 class=3Dxl9721288 width=3D65 style=3D'height:63.75pt;widt=
+h:49pt'>Ready</td>
+  <td class=3Dxl9221288 width=3D119 style=3D'width:89pt'>Donor button</td>
+  <td class=3Dxl9221288 width=3D261 style=3D'width:196pt'>Scenario: User ca=
+n select
+  donor button and view donors<br>
+    <br>
+    Test Conditions:<br>
+    1) select donor button</td>
+  <td class=3Dxl9521288 width=3D243 style=3D'width:182pt'>donors list shoul=
+d be
+  displayed and images need to be scrolled</td>
+  <td class=3Dxl9521288 width=3D187 style=3D'width:140pt'>donors list shoul=
+d be
+  displayed and images need to be scrolled</td>
+  <td class=3Dxl9221288 width=3D54 style=3D'width:41pt'>Pass</td>
+  <td class=3Dxl9221288 width=3D54 style=3D'width:41pt'>Pass</td>
+  <td class=3Dxl9221288 width=3D66 style=3D'width:50pt'>Pass</td>
+  <td class=3Dxl7921288 width=3D125 style=3D'width:94pt'>&nbsp;</td>
+  <td class=3Dxl7921288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl7921288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl7921288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl7921288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl8421288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl8421288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl8421288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl8421288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl8421288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl8421288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D133 style=3D'width:100pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl8321288 width=3D65 style=3D'height:12.75pt;widt=
+h:49pt'>&nbsp;</td>
+  <td class=3Dxl7921288 width=3D119 style=3D'width:89pt'>&nbsp;</td>
+  <td class=3Dxl7921288 width=3D261 style=3D'width:196pt'>&nbsp;</td>
+  <td class=3Dxl8021288 width=3D243 style=3D'width:182pt'>&nbsp;</td>
+  <td class=3Dxl8221288 width=3D187 style=3D'width:140pt'>&nbsp;</td>
+  <td class=3Dxl7921288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl7921288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl7921288 width=3D66 style=3D'width:50pt'>&nbsp;</td>
+  <td class=3Dxl7921288 width=3D125 style=3D'width:94pt'>&nbsp;</td>
+  <td class=3Dxl7921288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl7921288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl7921288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl7921288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl8421288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl8421288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl8421288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl8421288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl8421288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl8421288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D133 style=3D'width:100pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl7421288 width=3D65 style=3D'height:12.75pt;widt=
+h:49pt'>&nbsp;</td>
+  <td colspan=3D2 class=3Dxl9821288>Sprint 2</td>
+  <td class=3Dxl7521288 width=3D243 style=3D'width:182pt'>&nbsp;</td>
+  <td class=3Dxl7621288 width=3D187 style=3D'width:140pt'>&nbsp;</td>
+  <td class=3Dxl7721288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl7921288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl7921288 width=3D66 style=3D'width:50pt'>&nbsp;</td>
+  <td class=3Dxl7921288 width=3D125 style=3D'width:94pt'>&nbsp;</td>
+  <td class=3Dxl7921288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl7921288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl7921288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl7921288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl8421288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl8421288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl8421288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl8421288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl8421288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl8421288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D133 style=3D'width:100pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+ </tr>
+ <tr height=3D83 style=3D'mso-height-source:userset;height:62.25pt'>
+  <td height=3D83 class=3Dxl10121288 style=3D'height:62.25pt'>Ready</td>
+  <td class=3Dxl10221288 width=3D119 style=3D'width:89pt'>Store selection</=
+td>
+  <td class=3Dxl9221288 width=3D261 style=3D'width:196pt'>Scenario: User ca=
+n select a
+  store from the available stores.<span style=3D'mso-spacerun:yes'>  </span=
+>Test
+  Conditions: 1)user click stores through login or guest account 2)user vie=
+ws
+  the products</td>
+  <td class=3Dxl9521288 width=3D243 style=3D'width:182pt'>Stores clicked ne=
+ed to show
+  products available in the store</td>
+  <td class=3Dxl9521288 width=3D187 style=3D'width:140pt'>Stores clicked an=
+d showed
+  products available in the store</td>
+  <td class=3Dxl9221288 width=3D54 style=3D'width:41pt'>PASS</td>
+  <td class=3Dxl9221288 width=3D54 style=3D'width:41pt'>PASS</td>
+  <td class=3Dxl9221288 width=3D66 style=3D'width:50pt'>PASS</td>
+  <td class=3Dxl9221288 width=3D125 style=3D'width:94pt'>But images in fire=
+fox and IE
+  are extending large sometimes</td>
+  <td class=3Dxl7921288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl7921288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl7921288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl7921288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl8421288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl8421288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl8421288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl8421288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl8421288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl8421288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D133 style=3D'width:100pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+  <td class=3Dxl8121288 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+ </tr>
+ <tr height=3D69 style=3D'mso-height-source:userset;height:51.75pt'>
+  <td height=3D69 class=3Dxl9721288 width=3D65 style=3D'height:51.75pt;widt=
+h:49pt'>Ready</td>
+  <td class=3Dxl10021288>product selection</td>
+  <td class=3Dxl9221288 width=3D261 style=3D'width:196pt'>Scenario: user ca=
+n select
+  the needed products test conditions: 1) user login through guest or with
+  username 2)user clicks the products section in nav bar 3) user can select=
+ the
+  products</td>
+  <td class=3Dxl9221288 width=3D243 style=3D'width:182pt'>Products should b=
+e able to
+  viewed and selected</td>
+  <td class=3Dxl10321288 width=3D187 style=3D'width:140pt'>Products are abl=
+e to view
+  and selected</td>
+  <td class=3Dxl9221288 width=3D54 style=3D'width:41pt'>PASS</td>
+  <td class=3Dxl9221288 width=3D54 style=3D'width:41pt'>Fail</td>
+  <td class=3Dxl9221288 width=3D66 style=3D'width:50pt'>Pass</td>
+  <td class=3Dxl9221288 width=3D125 style=3D'width:94pt'>Images in firefox =
+are
+  extremely enlarged and page has some usability issues</td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+ </tr>
+ <tr height=3D85 style=3D'height:63.75pt'>
+  <td height=3D85 class=3Dxl9721288 width=3D65 style=3D'height:63.75pt;widt=
+h:49pt'>Ready</td>
+  <td class=3Dxl10021288>Login/signup/profile</td>
+  <td class=3Dxl9221288 width=3D261 style=3D'width:196pt'>Scenario: User ca=
+n create
+  an account, login and view profile Test conditions: 1)user clicks login 2)
+  user clicks signup 3)user enter data 4)user login 5)user view profile</td>
+  <td class=3Dxl9221288 width=3D243 style=3D'width:182pt'>New account shoul=
+d be
+  created and should be able to login in the website</td>
+  <td class=3Dxl10321288 width=3D187 style=3D'width:140pt'>New account is c=
+reated and
+  user can be able to login</td>
+  <td class=3Dxl10421288 width=3D54 style=3D'width:41pt'>PASS</td>
+  <td class=3Dxl10421288 width=3D54 style=3D'width:41pt'>PASS</td>
+  <td class=3Dxl10421288 width=3D66 style=3D'width:50pt'>PASS</td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+ </tr>
+ <tr height=3D91 style=3D'mso-height-source:userset;height:68.25pt'>
+  <td height=3D91 class=3Dxl9721288 width=3D65 style=3D'height:68.25pt;widt=
+h:49pt'>Ready</td>
+  <td class=3Dxl10021288>Reserve and cart</td>
+  <td class=3Dxl9221288 width=3D261 style=3D'width:196pt'>Scenario: User ca=
+n reserve
+  products here. Test conditions: 1)user login 2) user view products 3)user=
+ can
+  reserve the product 4)user can view the cart about reserved products</td>
+  <td class=3Dxl9221288 width=3D243 style=3D'width:182pt'>The user can be a=
+ble to
+  reserve and view the cart about reserved items</td>
+  <td class=3Dxl9221288 width=3D187 style=3D'width:140pt'>The user can be a=
+ble to
+  reserve and view the cart about reserved items</td>
+  <td class=3Dxl9221288 width=3D54 style=3D'width:41pt'>PASS</td>
+  <td class=3Dxl9221288 width=3D54 style=3D'width:41pt'>Fail</td>
+  <td class=3Dxl9221288 width=3D66 style=3D'width:50pt'>PASS</td>
+  <td class=3Dxl9221288 width=3D125 style=3D'width:94pt'>Images in firefox =
+are
+  extremely enlarged and page has some usability issues</td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+ </tr>
+ <tr height=3D72 style=3D'mso-height-source:userset;height:54.0pt'>
+  <td height=3D72 class=3Dxl9721288 width=3D65 style=3D'height:54.0pt;width=
+:49pt'>Ready</td>
+  <td class=3Dxl10021288>Feedback</td>
+  <td class=3Dxl9221288 width=3D261 style=3D'width:196pt'>Scenario: User ca=
+n give
+  feedback to the system admin Test conditions:1) User click contact us 2)u=
+ser
+  enters message 3)user submit it.</td>
+  <td class=3Dxl9221288 width=3D243 style=3D'width:182pt'>User can send a m=
+essage to
+  the system administrator<span style=3D'mso-spacerun:yes'> </span></td>
+  <td class=3Dxl9221288 width=3D187 style=3D'width:140pt'>User can send a m=
+essage to
+  the system administrator<span style=3D'mso-spacerun:yes'> </span></td>
+  <td class=3Dxl9221288 width=3D54 style=3D'width:41pt'>PASS</td>
+  <td class=3Dxl9221288 width=3D54 style=3D'width:41pt'>PASS</td>
+  <td class=3Dxl9221288 width=3D66 style=3D'width:50pt'>PASS</td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl8321288 width=3D65 style=3D'height:12.75pt;widt=
+h:49pt'>&nbsp;</td>
+  <td class=3Dxl8521288>&nbsp;</td>
+  <td class=3Dxl7921288 width=3D261 style=3D'width:196pt'>&nbsp;</td>
+  <td class=3Dxl7921288 width=3D243 style=3D'width:182pt'>&nbsp;</td>
+  <td class=3Dxl8221288 width=3D187 style=3D'width:140pt'>&nbsp;</td>
+  <td class=3Dxl7921288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl7421288 width=3D65 style=3D'height:12.75pt;widt=
+h:49pt'>&nbsp;</td>
+  <td colspan=3D2 class=3Dxl10621288>Sprint 3</td>
+  <td class=3Dxl7521288 width=3D243 style=3D'width:182pt'>&nbsp;</td>
+  <td class=3Dxl7621288 width=3D187 style=3D'width:140pt'>&nbsp;</td>
+  <td class=3Dxl7721288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+ </tr>
+ <tr height=3D119 style=3D'height:89.25pt'>
+  <td height=3D119 class=3Dxl9721288 width=3D65 style=3D'height:89.25pt;wid=
+th:49pt'>Ready</td>
+  <td class=3Dxl10021288>Search</td>
+  <td class=3Dxl9221288 width=3D261 style=3D'width:196pt'>Scenario: User ca=
+n search
+  the product name in product page<span style=3D'mso-spacerun:yes'>  </span=
+>test
+  condition:1)user login through guest or his/her account 2) user clicks
+  product page 3)user search for product name</td>
+  <td class=3Dxl9221288 width=3D243 style=3D'width:182pt'>It should display=
+ the
+  searched products</td>
+  <td class=3Dxl10321288 width=3D187 style=3D'width:140pt'>It displayed sea=
+rched
+  products.</td>
+  <td class=3Dxl9221288 width=3D54 style=3D'width:41pt'>Pass</td>
+  <td class=3Dxl9221288 width=3D54 style=3D'width:41pt'>Fail</td>
+  <td class=3Dxl9221288 width=3D66 style=3D'width:50pt'>Fail</td>
+  <td class=3Dxl9221288 width=3D125 style=3D'width:94pt'>In chrome the page=
+ is not
+  clearly visible images and footer mixing, and in firefox search functiona=
+lity
+  not working.</td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+ </tr>
+ <tr height=3D85 style=3D'height:63.75pt'>
+  <td height=3D85 class=3Dxl9721288 width=3D65 style=3D'height:63.75pt;widt=
+h:49pt'>Ready</td>
+  <td class=3Dxl10021288>Social connectivity</td>
+  <td class=3Dxl9221288 width=3D261 style=3D'width:196pt'>Scenario: user ca=
+n visit
+  the social connection sites of website page test condition:1)user clicks =
+the
+  facebook and twitter it redirects to facebook and twitter page</td>
+  <td class=3Dxl9221288 width=3D243 style=3D'width:182pt'>Pages should redi=
+rect to
+  web links of social site</td>
+  <td class=3Dxl10321288 width=3D187 style=3D'width:140pt'>Pages are redire=
+cting to
+  social sites</td>
+  <td class=3Dxl9221288 width=3D54 style=3D'width:41pt'>Pass</td>
+  <td class=3Dxl9221288 width=3D54 style=3D'width:41pt'>Pass</td>
+  <td class=3Dxl9221288 width=3D66 style=3D'width:50pt'>Pass</td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+ </tr>
+ <tr height=3D68 style=3D'height:51.0pt'>
+  <td height=3D68 class=3Dxl9721288 width=3D65 style=3D'height:51.0pt;width=
+:49pt'>Ready</td>
+  <td class=3Dxl10021288>Privacy Policy</td>
+  <td class=3Dxl9221288 width=3D261 style=3D'width:196pt'>Scenario: user ca=
+n view the
+  privacy policy about the information of the page test conditions: 1)User
+  clicks privacy policy in footer</td>
+  <td class=3Dxl9221288 width=3D243 style=3D'width:182pt'>Privacy policy sh=
+ould be
+  visible</td>
+  <td class=3Dxl10321288 width=3D187 style=3D'width:140pt'>Privacy policy p=
+age is
+  opened and data is visible</td>
+  <td class=3Dxl9221288 width=3D54 style=3D'width:41pt'>pass</td>
+  <td class=3Dxl9221288 width=3D54 style=3D'width:41pt'>pass</td>
+  <td class=3Dxl9221288 width=3D66 style=3D'width:50pt'>pass</td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl8321288 width=3D65 style=3D'height:12.75pt;widt=
+h:49pt'>&nbsp;</td>
+  <td class=3Dxl8521288>&nbsp;</td>
+  <td class=3Dxl7921288 width=3D261 style=3D'width:196pt'>&nbsp;</td>
+  <td class=3Dxl7921288 width=3D243 style=3D'width:182pt'>&nbsp;</td>
+  <td class=3Dxl8221288 width=3D187 style=3D'width:140pt'>&nbsp;</td>
+  <td class=3Dxl7921288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl8321288 width=3D65 style=3D'height:12.75pt;widt=
+h:49pt'>&nbsp;</td>
+  <td class=3Dxl8521288>&nbsp;</td>
+  <td class=3Dxl7921288 width=3D261 style=3D'width:196pt'>&nbsp;</td>
+  <td class=3Dxl7921288 width=3D243 style=3D'width:182pt'>&nbsp;</td>
+  <td class=3Dxl8221288 width=3D187 style=3D'width:140pt'>&nbsp;</td>
+  <td class=3Dxl7921288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl8321288 width=3D65 style=3D'height:12.75pt;widt=
+h:49pt'>&nbsp;</td>
+  <td class=3Dxl8521288>&nbsp;</td>
+  <td class=3Dxl7921288 width=3D261 style=3D'width:196pt'>&nbsp;</td>
+  <td class=3Dxl7921288 width=3D243 style=3D'width:182pt'>&nbsp;</td>
+  <td class=3Dxl8221288 width=3D187 style=3D'width:140pt'>&nbsp;</td>
+  <td class=3Dxl7921288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl8321288 width=3D65 style=3D'height:12.75pt;widt=
+h:49pt'>&nbsp;</td>
+  <td class=3Dxl8521288>&nbsp;</td>
+  <td class=3Dxl7921288 width=3D261 style=3D'width:196pt'>&nbsp;</td>
+  <td class=3Dxl7921288 width=3D243 style=3D'width:182pt'>&nbsp;</td>
+  <td class=3Dxl8221288 width=3D187 style=3D'width:140pt'>&nbsp;</td>
+  <td class=3Dxl7921288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl8321288 width=3D65 style=3D'height:12.75pt;widt=
+h:49pt'>&nbsp;</td>
+  <td class=3Dxl8521288>&nbsp;</td>
+  <td class=3Dxl7921288 width=3D261 style=3D'width:196pt'>&nbsp;</td>
+  <td class=3Dxl7921288 width=3D243 style=3D'width:182pt'>&nbsp;</td>
+  <td class=3Dxl8221288 width=3D187 style=3D'width:140pt'>&nbsp;</td>
+  <td class=3Dxl7921288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl8321288 width=3D65 style=3D'height:12.75pt;widt=
+h:49pt'>&nbsp;</td>
+  <td class=3Dxl8521288>&nbsp;</td>
+  <td class=3Dxl7921288 width=3D261 style=3D'width:196pt'>&nbsp;</td>
+  <td class=3Dxl7921288 width=3D243 style=3D'width:182pt'>&nbsp;</td>
+  <td class=3Dxl8221288 width=3D187 style=3D'width:140pt'>&nbsp;</td>
+  <td class=3Dxl7921288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl8321288 width=3D65 style=3D'height:12.75pt;widt=
+h:49pt'>&nbsp;</td>
+  <td class=3Dxl8521288>&nbsp;</td>
+  <td class=3Dxl7921288 width=3D261 style=3D'width:196pt'>&nbsp;</td>
+  <td class=3Dxl7921288 width=3D243 style=3D'width:182pt'>&nbsp;</td>
+  <td class=3Dxl8221288 width=3D187 style=3D'width:140pt'>&nbsp;</td>
+  <td class=3Dxl7921288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl8321288 width=3D65 style=3D'height:12.75pt;widt=
+h:49pt'>&nbsp;</td>
+  <td class=3Dxl8521288>&nbsp;</td>
+  <td class=3Dxl7921288 width=3D261 style=3D'width:196pt'>&nbsp;</td>
+  <td class=3Dxl7921288 width=3D243 style=3D'width:182pt'>&nbsp;</td>
+  <td class=3Dxl8221288 width=3D187 style=3D'width:140pt'>&nbsp;</td>
+  <td class=3Dxl7921288 width=3D54 style=3D'width:41pt'>&nbsp;</td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl1521288 style=3D'height:12.75pt'></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl1521288 style=3D'height:12.75pt'></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt'>
+  <td height=3D17 class=3Dxl1521288 style=3D'height:12.75pt'></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+  <td class=3Dxl1521288></td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=3D0 style=3D'display:none'>
+  <td width=3D65 style=3D'width:49pt'></td>
+  <td width=3D119 style=3D'width:89pt'></td>
+  <td width=3D261 style=3D'width:196pt'></td>
+  <td width=3D243 style=3D'width:182pt'></td>
+  <td width=3D187 style=3D'width:140pt'></td>
+  <td width=3D54 style=3D'width:41pt'></td>
+  <td width=3D54 style=3D'width:41pt'></td>
+  <td width=3D66 style=3D'width:50pt'></td>
+  <td width=3D125 style=3D'width:94pt'></td>
+  <td width=3D54 style=3D'width:41pt'></td>
+  <td width=3D54 style=3D'width:41pt'></td>
+  <td width=3D54 style=3D'width:41pt'></td>
+  <td width=3D54 style=3D'width:41pt'></td>
+  <td width=3D54 style=3D'width:41pt'></td>
+  <td width=3D54 style=3D'width:41pt'></td>
+  <td width=3D54 style=3D'width:41pt'></td>
+  <td width=3D54 style=3D'width:41pt'></td>
+  <td width=3D54 style=3D'width:41pt'></td>
+  <td width=3D54 style=3D'width:41pt'></td>
+  <td width=3D133 style=3D'width:100pt'></td>
+  <td width=3D101 style=3D'width:76pt'></td>
+  <td width=3D101 style=3D'width:76pt'></td>
+  <td width=3D101 style=3D'width:76pt'></td>
+  <td width=3D101 style=3D'width:76pt'></td>
+  <td width=3D101 style=3D'width:76pt'></td>
+  <td width=3D101 style=3D'width:76pt'></td>
+  <td width=3D101 style=3D'width:76pt'></td>
+  <td width=3D101 style=3D'width:76pt'></td>
+  <td width=3D101 style=3D'width:76pt'></td>
+  <td width=3D101 style=3D'width:76pt'></td>
+  <td width=3D101 style=3D'width:76pt'></td>
+  <td width=3D101 style=3D'width:76pt'></td>
+  <td width=3D101 style=3D'width:76pt'></td>
+  <td width=3D101 style=3D'width:76pt'></td>
+  <td width=3D101 style=3D'width:76pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</div>
+
+
+<!----------------------------->
+<!--END OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD-->
+<!----------------------------->
+</body>
+
+</html>

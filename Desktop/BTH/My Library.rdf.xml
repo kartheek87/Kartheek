@@ -1,0 +1,1328 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#">
+    <bib:Article rdf:about="http://www-tandfonline-com.miman.bib.bth.se/doi/abs/10.1080/01449290110049745">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0144-929X"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Freudenthal</foaf:surname>
+                        <foaf:givenname>Daniel</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_34"/>
+        <link:link rdf:resource="#item_35"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www-tandfonline-com.miman.bib.bth.se/doi/abs/10.1080/01449290110049745</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>9-22</bib:pages>
+        <dc:date>January 1, 2001</dc:date>
+        <dcterms:dateSubmitted>2015-10-09 10:52:12</dcterms:dateSubmitted>
+        <z:libraryCatalog>www-tandfonline-com.miman.bib.bth.se (Atypon)</z:libraryCatalog>
+        <dc:title>Age differences in the performance of information retrieval tasks</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0144-929X">
+        <prism:volume>20</prism:volume>
+        <prism:number>1</prism:number>
+        <dc:title>Behaviour &amp; Information Technology</dc:title>
+        <dc:identifier>ISSN 0144-929X</dc:identifier>
+        <dcterms:alternative>Behaviour &amp; Information Technology</dcterms:alternative>
+        <dc:identifier>DOI 10.1080/01449290110049745</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_34">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/34/Freudenthal - 2001 - Age differences in the performance of information .pdf"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www-tandfonline-com.miman.bib.bth.se/doi/pdf/10.1080/01449290110049745#.VhecWPmqqko</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2015-10-09 10:52:12</dcterms:dateSubmitted>
+        <dc:title>Full Text PDF</dc:title>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_35">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/35/01449290110049745.html"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www-tandfonline-com.miman.bib.bth.se/doi/abs/10.1080/01449290110049745#.VhecWPmqqko</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2015-10-09 10:52:15</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:0-444-81862-6%20(inb.)">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Amsterdam</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Elsevier</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Helander</foaf:surname>
+                        <foaf:givenname>Martin</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Landauer</foaf:surname>
+                        <foaf:givenname>Thomas K.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Prabhu</foaf:surname>
+                        <foaf:givenname>Prasad V.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_46"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Användargränssnitt</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Människa-dator-interaktion</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:identifier>ISBN 0-444-81862-6 (inb.)</dc:identifier>
+        <dc:date>1997</dc:date>
+        <z:libraryCatalog>libris.kb.se</z:libraryCatalog>
+        <dc:title>Handbook of human-computer interaction</dc:title>
+    </bib:Book>
+    <bib:Memo rdf:about="#item_46">
+       <rdf:value>&lt;p&gt;2., completely rev. ed.&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Article rdf:about="http://miman.bib.bth.se/login?url=http://search.ebscohost.com/login.aspx?direct=true&amp;db=pdh&amp;AN=1986-31441-001&amp;site=ehost-live">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0021-9010"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schmidt</foaf:surname>
+                        <foaf:givenname>Frank L.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hunter</foaf:surname>
+                        <foaf:givenname>John E.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Outerbridge</foaf:surname>
+                        <foaf:givenname>Alice N.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Ability Level</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>job experience</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Job Experience Level</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>job knowledge &amp; performance capability &amp; supervisory ratings of job experience</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Job Performance</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Knowledge Level</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Personnel Evaluation</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://miman.bib.bth.se/login?url=http://search.ebscohost.com/login.aspx?direct=true&amp;db=pdh&amp;AN=1986-31441-001&amp;site=ehost-live</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>432-439</bib:pages>
+        <dc:date>August 1986</dc:date>
+        <dc:coverage>1986-31441-001</dc:coverage>
+        <dcterms:dateSubmitted>2015-10-09 10:25:27</dcterms:dateSubmitted>
+        <z:libraryCatalog>EBSCOhost</z:libraryCatalog>
+        <dcterms:abstract>Based on data from 4 independent studies reported by R. Vineberg and E. N. Taylor (1972) with a total sample size of 1,474, path analysis was used to examine the causal impact of job experience on job knowledge, performance capability as measured by job sample tests, and supervisory ratings of job performance. Findings support the conclusion that (1) when mean job experience is 2–3 yrs, there is substantial variance in job experience and (2) when the jobs are of an intermediate complexity level, job experience has a substantial direct impact on job knowledge and a smaller direct impact on performance capabilities as assessed by job sample measures. Job experience also has a substantial indirect effect on work sample performance through its effect on job knowledge, which, in turn, was found to be the strongest determinant of work sample performance. The pattern and magnitude of causal effects of general mental ability were similar to those of job experience. The effect of job knowledge on supervisory ratings was several times stronger than the effect of job sample performance, confirming the findings of J. E. Hunter (1983). When job experience was held constant, the direct impact of ability on the acquisition of job knowledge increased substantially, and this, in turn, increased the indirect effect of ability on job sample performance. (28 ref) (PsycINFO Database Record (c) 2013 APA, all rights reserved)</dcterms:abstract>
+        <dc:title>Impact of job experience and ability on job knowledge, work sample performance, and supervisory ratings of job performance</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0021-9010">
+        <prism:volume>71</prism:volume>
+        <prism:number>3</prism:number>
+        <dc:title>Journal of Applied Psychology</dc:title>
+        <dc:identifier>ISSN 0021-9010</dc:identifier>
+        <dcterms:alternative>Journal of Applied Psychology</dcterms:alternative>
+        <dc:identifier>DOI 10.1037/0021-9010.71.3.432</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="http://www.sciencedirect.com/science/article/pii/S0169814107000418">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0169-8141"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kahya</foaf:surname>
+                        <foaf:givenname>Emin</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_7"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Contextual performance</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Education level</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Environmental conditions</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Experience</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Hazards</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Job grade</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Task performance</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Working conditions</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com/science/article/pii/S0169814107000418</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>515-523</bib:pages>
+        <dc:date>June 2007</dc:date>
+        <dcterms:dateSubmitted>2015-10-09 10:26:55</dcterms:dateSubmitted>
+        <z:libraryCatalog>ScienceDirect</z:libraryCatalog>
+        <dcterms:abstract>In performance evaluation literature, although the combination of some variables such as age, gender, experience, observation time, and interpersonal affect has been widely considered in determining employee performance, no investigation has indicated the influence of workplace conditions on job performance. This study reports the effects of job characteristics (physical efforts and job grade), and working conditions (environmental conditions and hazards) in addition to experience and education level on task performance and contextual performance. A total of 154 employees in 18 teams at a medium-sized metal company participated in this study. Seven criteria for task performance and 16 for contextual performance were used for measuring employee performance. The results showed that there were substantial relationships between employee performance both job grade and environmental conditions. Poor workplace conditions (physical efforts, environmental conditions, and hazards) result in decreasing employee performance consisted of following organization rules, quality, cooperating with coworkers to solve task problems, concentrating the tasks, creativity, and absenteeism.
+Relevance to industry
+Unpleasant working conditions in workshops have different effects on each of the job performance indicators. This study highlighted that training program designed to enhance job performance of the employees working under poor workplace conditions should focus on organizational rules in terms of occupational health and safety.</dcterms:abstract>
+        <dc:title>The effects of job characteristics and working conditions on job performance</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0169-8141">
+        <prism:volume>37</prism:volume>
+        <prism:number>6</prism:number>
+        <dc:title>International Journal of Industrial Ergonomics</dc:title>
+        <dc:identifier>ISSN 0169-8141</dc:identifier>
+        <dcterms:alternative>International Journal of Industrial Ergonomics</dcterms:alternative>
+        <dc:identifier>DOI 10.1016/j.ergon.2007.02.006</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_7">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/7/S0169814107000418.html"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com.miman.bib.bth.se/science/article/pii/S0169814107000418</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2015-10-09 10:26:59</dcterms:dateSubmitted>
+        <dc:title>ScienceDirect Snapshot</dc:title>
+    </z:Attachment>
+    <rdf:Description rdf:about="urn:isbn:978-1-4799-2504-9">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-1-4799-2504-9</dc:identifier>
+                <dc:identifier>DOI 10.1109/HICSS.2014.43</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>IEEE</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Aggarwal</foaf:surname>
+                        <foaf:givenname>Anil</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=6758639</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>278-288</bib:pages>
+        <dc:date>1/2014</dc:date>
+        <dcterms:dateSubmitted>2015-10-09 10:38:40</dcterms:dateSubmitted>
+        <z:libraryCatalog>CrossRef</z:libraryCatalog>
+        <dc:title>Decision Making in Diverse Swift Teams: An Exploratory Study</dc:title>
+        <z:shortTitle>Decision Making in Diverse Swift Teams</z:shortTitle>
+    </rdf:Description>
+    <bib:Article rdf:about="http://www-tandfonline-com.miman.bib.bth.se/doi/abs/10.1080/1359432X.2012.690399">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1359-432X"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zijlstra</foaf:surname>
+                        <foaf:givenname>Fred R. H.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Waller</foaf:surname>
+                        <foaf:givenname>Mary J.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Phillips</foaf:surname>
+                        <foaf:givenname>Sybil I.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_37"/>
+        <link:link rdf:resource="#item_38"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www-tandfonline-com.miman.bib.bth.se/doi/abs/10.1080/1359432X.2012.690399</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>749-777</bib:pages>
+        <dc:date>September 24, 2012</dc:date>
+        <dcterms:dateSubmitted>2015-10-09 10:53:05</dcterms:dateSubmitted>
+        <z:libraryCatalog>www-tandfonline-com.miman.bib.bth.se (Atypon)</z:libraryCatalog>
+        <dc:title>Setting the tone: Early interaction patterns in swift-starting teams as a predictor of effectiveness</dc:title>
+        <z:shortTitle>Setting the tone</z:shortTitle>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1359-432X">
+        <prism:volume>21</prism:volume>
+        <prism:number>5</prism:number>
+        <dc:title>European Journal of Work and Organizational Psychology</dc:title>
+        <dc:identifier>ISSN 1359-432X</dc:identifier>
+        <dcterms:alternative>European Journal of Work and Organizational Psychology</dcterms:alternative>
+        <dc:identifier>DOI 10.1080/1359432X.2012.690399</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_37">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/37/Zijlstra et al. - 2012 - Setting the tone Early interaction patterns in sw.pdf"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www-tandfonline-com.miman.bib.bth.se/doi/pdf/10.1080/1359432X.2012.690399#.Vhecjfmqqko</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2015-10-09 10:53:05</dcterms:dateSubmitted>
+        <dc:title>Full Text PDF</dc:title>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_38">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/38/1359432X.2012.html"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www-tandfonline-com.miman.bib.bth.se/doi/abs/10.1080/1359432X.2012.690399#.Vhecjfmqqko</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2015-10-09 10:53:07</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www-tandfonline-com.miman.bib.bth.se/doi/abs/10.1080/0360126970230505">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0360-1277"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Baldi</foaf:surname>
+                        <foaf:givenname>Renee A.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_43"/>
+        <link:link rdf:resource="#item_44"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www-tandfonline-com.miman.bib.bth.se/doi/abs/10.1080/0360126970230505</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>453-465</bib:pages>
+        <dc:date>January 1, 1997</dc:date>
+        <dcterms:dateSubmitted>2015-10-09 10:57:06</dcterms:dateSubmitted>
+        <z:libraryCatalog>www-tandfonline-com.miman.bib.bth.se (Atypon)</z:libraryCatalog>
+        <dc:title>Training older adults to use the computer: issues related to the workplace, attitudes, and training</dc:title>
+        <z:shortTitle>Training older adults to use the computer</z:shortTitle>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0360-1277">
+        <prism:volume>23</prism:volume>
+        <prism:number>5</prism:number>
+        <dc:title>Educational Gerontology</dc:title>
+        <dc:identifier>ISSN 0360-1277</dc:identifier>
+        <dcterms:alternative>Educational Gerontology</dcterms:alternative>
+        <dc:identifier>DOI 10.1080/0360126970230505</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_43">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/43/Baldi - 1997 - Training older adults to use the computer issues .pdf"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www-tandfonline-com.miman.bib.bth.se/doi/pdf/10.1080/0360126970230505#.Vhedffmqqko</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2015-10-09 10:57:06</dcterms:dateSubmitted>
+        <dc:title>Full Text PDF</dc:title>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_44">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/44/0360126970230505.html"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www-tandfonline-com.miman.bib.bth.se/doi/abs/10.1080/0360126970230505#.Vhedffmqqko</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2015-10-09 10:57:07</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+    </z:Attachment>
+    <bib:Article rdf:about="http://onlinelibrary.wiley.com.miman.bib.bth.se/doi/10.1111/j.1937-8327.1999.tb00118.x/abstract">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1937-8327"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Neale</foaf:surname>
+                        <foaf:givenname>Margaret A.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Northcraft</foaf:surname>
+                        <foaf:givenname>Gregory B.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jehn</foaf:surname>
+                        <foaf:givenname>Karen A.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_40"/>
+        <link:link rdf:resource="#item_41"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://onlinelibrary.wiley.com.miman.bib.bth.se/doi/10.1111/j.1937-8327.1999.tb00118.x/abstract</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:rights>© 1999 Learning Systems Institute</dc:rights>
+        <bib:pages>113-126</bib:pages>
+        <dc:date>March 1, 1999</dc:date>
+        <dcterms:dateSubmitted>2015-10-09 10:54:21</dcterms:dateSubmitted>
+        <z:libraryCatalog>Wiley Online Library</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dcterms:abstract>ABSTRACT: This paper describes a model that explores the critical roles of three group composition factors (social category diversity, value diversity, and informational diversity) and two moderating variables (task type and task interdependence) on work group performance and morale. The three types of diversity are proposed to exhibit both main effects and interaction effects (interacting both with each other and with task type and task interdependence) on work group performance and morale. Relationship and task conflict are proposed to mediate many of these effects. Empirical evidence for these relationships and their implications for those wishing to manage a diverse workforce are discussed.</dcterms:abstract>
+        <dc:title>Exploring Pandora's Box; The Impact of Diversity and Conflict on Work Group Performance</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1937-8327">
+        <prism:volume>12</prism:volume>
+        <prism:number>1</prism:number>
+        <dc:title>Performance Improvement Quarterly</dc:title>
+        <dc:identifier>ISSN 1937-8327</dc:identifier>
+        <dc:identifier>DOI 10.1111/j.1937-8327.1999.tb00118.x</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_40">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/40/Neale et al. - 1999 - Exploring Pandora's Box; The Impact of Diversity a.pdf"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://onlinelibrary.wiley.com.miman.bib.bth.se/store/10.1111/j.1937-8327.1999.tb00118.x/asset/j.1937-8327.1999.tb00118.x.pdf?v=1&amp;t=ifjnn6ay&amp;s=2a31ccf08421e67d5a38500c1a75c091c219f0b8</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2015-10-09 10:54:21</dcterms:dateSubmitted>
+        <dc:title>Full Text PDF</dc:title>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_41">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/41/abstract.html"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://onlinelibrary.wiley.com.miman.bib.bth.se/doi/10.1111/j.1937-8327.1999.tb00118.x/abstract</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2015-10-09 10:54:23</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+    </z:Attachment>
+    <bib:Article rdf:about="http://doi.acm.org/10.1145/163430.163447">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0001-0782"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Walz</foaf:surname>
+                        <foaf:givenname>Diane B.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Elam</foaf:surname>
+                        <foaf:givenname>Joyce J.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Curtis</foaf:surname>
+                        <foaf:givenname>Bill</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>case study</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>empirical studies of software development</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>requirements determination</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>software design teams</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>software management</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://doi.acm.org/10.1145/163430.163447</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>63–77</bib:pages>
+        <dc:date>October 1993</dc:date>
+        <dcterms:dateSubmitted>2015-10-09 10:41:41</dcterms:dateSubmitted>
+        <z:libraryCatalog>ACM Digital Library</z:libraryCatalog>
+        <dc:title>Inside a Software Design Team: Knowledge Acquisition, Sharing, and Integration</dc:title>
+        <z:shortTitle>Inside a Software Design Team</z:shortTitle>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0001-0782">
+        <prism:volume>36</prism:volume>
+        <prism:number>10</prism:number>
+        <dc:title>Commun. ACM</dc:title>
+        <dc:identifier>ISSN 0001-0782</dc:identifier>
+        <dc:identifier>DOI 10.1145/163430.163447</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="http://www-tandfonline-com.miman.bib.bth.se/doi/abs/10.2753/PSS0885-3134320404">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0885-3134"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Guidice</foaf:surname>
+                        <foaf:givenname>Rebecca M.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mero</foaf:surname>
+                        <foaf:givenname>Neal P.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_48"/>
+        <link:link rdf:resource="#item_49"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www-tandfonline-com.miman.bib.bth.se/doi/abs/10.2753/PSS0885-3134320404</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>451-471</bib:pages>
+        <dc:date>September 1, 2012</dc:date>
+        <dcterms:dateSubmitted>2015-10-09 10:59:45</dcterms:dateSubmitted>
+        <z:libraryCatalog>www-tandfonline-com.miman.bib.bth.se (Atypon)</z:libraryCatalog>
+        <dc:title>Hedging Their Bets: A Longitudinal Study of The Trade-Offs Between Task and Contextual Performance in a Sales Organization</dc:title>
+        <z:shortTitle>Hedging Their Bets</z:shortTitle>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0885-3134">
+        <prism:volume>32</prism:volume>
+        <prism:number>4</prism:number>
+        <dc:title>Journal of Personal Selling &amp; Sales Management</dc:title>
+        <dc:identifier>ISSN 0885-3134</dc:identifier>
+        <dcterms:alternative>Journal of Personal Selling &amp; Sales Management</dcterms:alternative>
+        <dc:identifier>DOI 10.2753/PSS0885-3134320404</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_48">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/48/Guidice and Mero - 2012 - Hedging Their Bets A Longitudinal Study of The Tr.pdf"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www-tandfonline-com.miman.bib.bth.se/doi/pdf/10.2753/PSS0885-3134320404#.VheeHfmqqko</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2015-10-09 10:59:45</dcterms:dateSubmitted>
+        <dc:title>Full Text PDF</dc:title>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_49">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/49/PSS0885-3134320404.html"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www-tandfonline-com.miman.bib.bth.se/doi/abs/10.2753/PSS0885-3134320404#.VheeHfmqqko</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2015-10-09 10:59:47</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.emeraldinsight.com.miman.bib.bth.se/doi/full/10.1108/00197850710732424">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0019-7858"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Amy Glass</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_18"/>
+        <link:link rdf:resource="#item_19"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.emeraldinsight.com.miman.bib.bth.se/doi/full/10.1108/00197850710732424</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>98-103</bib:pages>
+        <dc:date>June 19, 2007</dc:date>
+        <dcterms:dateSubmitted>2015-10-09 10:39:42</dcterms:dateSubmitted>
+        <z:libraryCatalog>emeraldinsight.com.miman.bib.bth.se (Atypon)</z:libraryCatalog>
+        <dc:title>Understanding generational differences for competitive success</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0019-7858">
+        <prism:volume>39</prism:volume>
+        <prism:number>2</prism:number>
+        <dc:title>Industrial and Commercial Training</dc:title>
+        <dc:identifier>ISSN 0019-7858</dc:identifier>
+        <dcterms:alternative>Ind and Commercial Training</dcterms:alternative>
+        <dc:identifier>DOI 10.1108/00197850710732424</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_18">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/18/Amy Glass - 2007 - Understanding generational differences for competi.pdf"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.emeraldinsight.com.miman.bib.bth.se/doi/pdfplus/10.1108/00197850710732424</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2015-10-09 10:39:42</dcterms:dateSubmitted>
+        <dc:title>Full Text PDF</dc:title>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_19">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/19/00197850710732424.html"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.emeraldinsight.com.miman.bib.bth.se/doi/full/10.1108/00197850710732424</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2015-10-09 10:39:46</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.sciencedirect.com/science/article/pii/S0923474810000020">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0923-4748"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Un</foaf:surname>
+                        <foaf:givenname>C. Annique</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_30"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Organizational learning</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Organization and team practices</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Radical and incremental innovations</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com/science/article/pii/S0923474810000020</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>1-19</bib:pages>
+        <dc:date>March 2010</dc:date>
+        <dcterms:dateSubmitted>2015-10-09 10:45:26</dcterms:dateSubmitted>
+        <z:libraryCatalog>ScienceDirect</z:libraryCatalog>
+        <dcterms:abstract>An examination of 202 innovation projects in 42 firms revealed two approaches in how firms manage employees to explore new knowledge for radical innovations and to exploit existing knowledge for incremental innovations. The first is the system of organization-level management practices, whereby employees are recruited based primarily on prior work experience in other companies and developed interdepartmentally, and compensation is based primarily on joint performance without a specific innovation project in mind. The second is the system of team-level management practices, whereby employees are selected based mainly on overlapping knowledge with team members, and are trained and rewarded for a specific innovation project. Although both systems offer employees the necessary psychological safety for attaining radical innovations and the perspective-taking capability helpful for incremental innovations, each system is better for achieving one type of innovation than the other. The system of organization-level management practices better achieves radical innovations because it provides greater psychological safety, while the system of team-level management practices better achieves incremental innovations because it develops superior perspective-taking capability. Using both systems assists in incremental innovations but not radical innovations, because contradictory expectations are placed on the employees, diminishing psychological safety. The main implication of these findings is that companies should manage their employees differently depending on the type of innovation they wish to achieve.</dcterms:abstract>
+        <dc:title>An empirical multi-level analysis for achieving balance between incremental and radical innovations</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0923-4748">
+        <prism:volume>27</prism:volume>
+        <prism:number>1–2</prism:number>
+        <dc:title>Journal of Engineering and Technology Management</dc:title>
+        <dc:identifier>ISSN 0923-4748</dc:identifier>
+        <dcterms:alternative>Journal of Engineering and Technology Management</dcterms:alternative>
+        <dc:identifier>DOI 10.1016/j.jengtecman.2010.03.001</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_30">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/30/S0923474810000020.html"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sciencedirect.com.miman.bib.bth.se/science/article/pii/S0923474810000020</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2015-10-09 10:45:28</dcterms:dateSubmitted>
+        <dc:title>ScienceDirect Snapshot</dc:title>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:978-0-13-255640-8">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Boston</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Pearson</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hersey</foaf:surname>
+                        <foaf:givenname>Paul.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Blanchard</foaf:surname>
+                        <foaf:givenname>Kenneth H.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Johnson</foaf:surname>
+                        <foaf:givenname>Dewey E.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_32"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Organisationspsykologi</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:identifier>ISBN 978-0-13-255640-8</dc:identifier>
+        <dc:date>2013</dc:date>
+        <z:libraryCatalog>libris.kb.se</z:libraryCatalog>
+        <dc:title>Management of organizational behavior : leading human resources</dc:title>
+        <z:shortTitle>Management of organizational behavior</z:shortTitle>
+    </bib:Book>
+    <bib:Memo rdf:about="#item_32">
+       <rdf:value>&lt;p&gt;10th ed.&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <rdf:Description rdf:about="#item_20">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>Part 1</prism:volume>
+                <dc:identifier>DOI 10.1109/ICIEEM.2011.6035119</dc:identifier>
+                <dc:title>2011 IEEE 18Th International Conference on Industrial Engineering and Engineering Management (IE EM)</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Duan</foaf:surname>
+                        <foaf:givenname>Ying</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chen</foaf:surname>
+                        <foaf:givenname>Lei</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_22"/>
+        <link:link rdf:resource="#item_21"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Atmospheric measurements</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>CM mode</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>communication mode</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>computer mediated communication</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>computer mediated communication mode</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Computers</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>decision making</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Educational institutions</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>face to face communication mode</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>FTF mode</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>group decision</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>group decision making</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>group size</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Humans</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>intellectual task</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>matching relationship</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Particle measurements</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Psychology</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>team working</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <bib:pages>118-121</bib:pages>
+        <dc:date>Sept 2011</dc:date>
+        <z:libraryCatalog>IEEE Xplore</z:libraryCatalog>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>2011 IEEE 18Th International Conference on Industrial Engineering and Engineering Management (IE EM)</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+        <dcterms:abstract>The matching relationship between group size and communication modes is investigated in this paper. Three teams of students whose average age is 21 years old, and each team is divided into several groups with 3 to 17 persons respectively to take the experiment for an intellectual task, by means of two communication modes of FTF and CM. Quality of schemes created by different groups have been compared, the result shows that group in FTF mode can create better scheme than in CM mode when the group size is smaller (n≤7), and turns reversal when the group size is larger (n≥11).</dcterms:abstract>
+        <dc:title>Experimental research about matching relationship between group size and communication mode in group decision-making</dc:title>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_22">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/22/abs_all.html"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://ieeexplore.ieee.org.miman.bib.bth.se/xpls/abs_all.jsp?arnumber=6035119</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2015-10-09 10:40:50</dcterms:dateSubmitted>
+        <dc:title>IEEE Xplore Abstract Record</dc:title>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_21">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/21/Duan and Chen - 2011 - Experimental research about matching relationship .pdf"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://ieeexplore.ieee.org.miman.bib.bth.se/ielx5/6029400/6034761/06035119.pdf?tp=&amp;arnumber=6035119&amp;isnumber=6034761</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2015-10-09 10:40:46</dcterms:dateSubmitted>
+        <dc:title>IEEE Xplore Full Text PDF</dc:title>
+    </z:Attachment>
+    <bib:Article rdf:about="http://link.springer.com.miman.bib.bth.se/article/10.1023/A%3A1022984301410">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0889-3268,%201573-353X"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Posthuma</foaf:surname>
+                        <foaf:givenname>Richard A.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_13"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Business/Management Science, general</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Community &amp; Environmental Psychology</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Social Issues</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Social Psychology</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://link.springer.com.miman.bib.bth.se/article/10.1023/A%3A1022984301410</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>481-487</bib:pages>
+        <dc:date>2000-09</dc:date>
+        <dcterms:dateSubmitted>2015-10-09 10:30:24</dcterms:dateSubmitted>
+        <z:libraryCatalog>link.springer.com.miman.bib.bth.se</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dc:title>The Dimensionality of Supervisor Evaluations of Job Performance</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0889-3268,%201573-353X">
+        <prism:volume>14</prism:volume>
+        <prism:number>3</prism:number>
+        <dc:title>Journal of Business and Psychology</dc:title>
+        <dc:identifier>ISSN 0889-3268, 1573-353X</dc:identifier>
+        <dcterms:alternative>Journal of Business and Psychology</dcterms:alternative>
+        <dc:identifier>DOI 10.1023/A:1022984301410</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_13">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/13/10.html"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://link.springer.com.miman.bib.bth.se/article/10.1023%2FA%3A1022984301410</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2015-10-09 10:30:29</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+    </z:Attachment>
+    <bib:Article rdf:about="http://miman.bib.bth.se/login?url=http://search.ebscohost.com/login.aspx?direct=true&amp;db=pdh&amp;AN=1989-25516-001&amp;site=ehost-live">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0278-7393"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Salthouse</foaf:surname>
+                        <foaf:givenname>Timothy A.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mitchell</foaf:surname>
+                        <foaf:givenname>Debora R.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Skovronek</foaf:surname>
+                        <foaf:givenname>Eric</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Babcock</foaf:surname>
+                        <foaf:givenname>Renee L.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>20–79 yr old males</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Adult Development</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Age Differences</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>age &amp; working memory &amp; task complexity</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Cognitive Ability</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Reasoning</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>reasoning &amp; spatial ability</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Short Term Memory</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Spatial Ability</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Task Complexity</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://miman.bib.bth.se/login?url=http://search.ebscohost.com/login.aspx?direct=true&amp;db=pdh&amp;AN=1989-25516-001&amp;site=ehost-live</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>507-516</bib:pages>
+        <dc:date>May 1989</dc:date>
+        <dc:coverage>1989-25516-001</dc:coverage>
+        <dcterms:dateSubmitted>2015-10-09 10:32:40</dcterms:dateSubmitted>
+        <z:libraryCatalog>EBSCOhost</z:libraryCatalog>
+        <dcterms:abstract>Three predictions were derived from the hypothesis that adult age differences in certain measures of cognitive functioning are attributable to age-related reductions in a processing resource such as working-memory capacity. Each prediction received at least some degree of empirical support in a study involving 120 males ranging between 20 and 79 years of age. First, older adults exhibited greater impairments of performance than did young adults when task complexity increased and more demands were placed on the limited processing resources: second, the magnitudes of these complexity effects were highly correlated across verbal (reasoning) and spatial (paper folding) tasks. Finally, statistical control of an index of a working-memory processing resource attenuated the effects of age on the measures of cognitive performance. It was concluded that further progress in understanding the mechanisms of the relation between age and cognitive functioning will require improved conceptualizations of the nature of working memory or other hypothesized mediating constructs. (PsycINFO Database Record (c) 2013 APA, all rights reserved)</dcterms:abstract>
+        <dc:title>Effects of adult age and working memory on reasoning and spatial abilities</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0278-7393">
+        <prism:volume>15</prism:volume>
+        <prism:number>3</prism:number>
+        <dc:title>Journal of Experimental Psychology: Learning, Memory, and Cognition</dc:title>
+        <dc:identifier>ISSN 0278-7393</dc:identifier>
+        <dcterms:alternative>Journal of Experimental Psychology: Learning, Memory, and Cognition</dcterms:alternative>
+        <dc:identifier>DOI 10.1037/0278-7393.15.3.507</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="http://onlinelibrary.wiley.com.miman.bib.bth.se/doi/10.1111/1468-2389.00113/abstract">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1468-2389"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Moser</foaf:surname>
+                        <foaf:givenname>Klaus</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schuler</foaf:surname>
+                        <foaf:givenname>Heinz</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Funke</foaf:surname>
+                        <foaf:givenname>Uwe</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_9"/>
+        <link:link rdf:resource="#item_10"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://onlinelibrary.wiley.com.miman.bib.bth.se/doi/10.1111/1468-2389.00113/abstract</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>133-141</bib:pages>
+        <dc:date>September 1, 1999</dc:date>
+        <dcterms:dateSubmitted>2015-10-09 10:28:21</dcterms:dateSubmitted>
+        <z:libraryCatalog>Wiley Online Library</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dcterms:abstract>Previous research has suggested that the quality of judgmental validation criteria may improve depending on the increase of opportunity for the rater to observe ratees’ job performances. This study investigated whether the validity of an assessment centre increases with opportunity to observe. Subjects were engineers and applied scientists from the Research and Development (R&amp;D) units of seven German high-technology companies. A total of 6 personality scales, 10 cognitive ability tests and 9 work samples was administered to 155 subjects. Performance appraisals were collected from their supervisors. Assessors were trained organizational psychologists who were not members of the participating organizations. A total score (‘assessment centre score’) was computed by averaging the 25 predictors after standardization of each predictor. The (uncorrected) validity of this assessment centre was r = 0.37. In addition, opportunity to observe (i.e. amount of time the performance rater was the ratee’s supervisor) emerged as a moderator: for example validities were r = 0.09 (opportunity to observe ≤ 2 years) and r = 0.50 (opportunity to observe&gt; 2 years).</dcterms:abstract>
+        <dc:title>The Moderating Effect of Raters’ Opportunities to Observe Ratees' Job Performance on the Validity of an Assessment Centre</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1468-2389">
+        <prism:volume>7</prism:volume>
+        <prism:number>3</prism:number>
+        <dc:title>International Journal of Selection and Assessment</dc:title>
+        <dc:identifier>ISSN 1468-2389</dc:identifier>
+        <dc:identifier>DOI 10.1111/1468-2389.00113</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_9">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/9/Moser et al. - 1999 - The Moderating Effect of Raters’ Opportunities to .pdf"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://onlinelibrary.wiley.com.miman.bib.bth.se/store/10.1111/1468-2389.00113/asset/1468-2389.00113.pdf?v=1&amp;t=ifjmpqrm&amp;s=cae6ce8bac47f323dee87af857af47ffccdd8741</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2015-10-09 10:28:21</dcterms:dateSubmitted>
+        <dc:title>Full Text PDF</dc:title>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_10">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/10/abstract;jsessionid=3089903DC2F97EF15665AAA7EE3F47BC.html"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://onlinelibrary.wiley.com.miman.bib.bth.se/doi/10.1111/1468-2389.00113/abstract;jsessionid=3089903DC2F97EF15665AAA7EE3F47BC.f01t01</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2015-10-09 10:28:27</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+    </z:Attachment>
+    <rdf:Description rdf:about="#item_25">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>DOI 10.1109/IEEM.2014.7058744</dc:identifier>
+                <dc:title>2014 IEEE International Conference on Industrial Engineering and Engineering Management (IEEM)</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Przybysz</foaf:surname>
+                        <foaf:givenname>P.M.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Duckwitz</foaf:surname>
+                        <foaf:givenname>S.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schlick</foaf:surname>
+                        <foaf:givenname>C.M.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_27"/>
+        <link:link rdf:resource="#item_26"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>age heterogeneous groups</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>age homogeneous groups</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Biological system modeling</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>complex engineering service setting</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>human resource management</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>innovation management</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>innovation process</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>internal team processes</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Laboratories</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>laboratory experiment</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Poles and towers</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Product development</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>productivity</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Psychology</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>service productivity</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>task characteristics</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>team composition</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>team composition variables</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>team performance</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>team working</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Technological innovation</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>value creation</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>value engineering</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <bib:pages>778-782</bib:pages>
+        <dc:date>December 2014</dc:date>
+        <z:libraryCatalog>IEEE Xplore</z:libraryCatalog>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>2014 IEEE International Conference on Industrial Engineering and Engineering Management (IEEM)</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+        <dcterms:abstract>Although many models of team performance acknowledge the importance of task characteristics and their effects on team outcome, task characteristics have often been neglected in empirical research. Instead, the focus has been on variables regarding internal team processes such as coherence, motivation or coordination and team composition variables. In this paper the effects of task characteristics and team characteristics on team outcome are evaluated empirically. A total of 21 teams participated in a laboratory experiment. Teams were designed as either age homogeneous or age heterogeneous groups while task characteristics were accounted for by requirements. Task requirements differed according to diverse needs for task completion within stages of the innovation process. This was implemented using two tasks which are approximations of the different challenges within the completion of an innovation process. The results show that both, task characteristics and team composition, have significant effects on the outcome of team performance. The evaluation allows an analysis of the impact of team and task factors on service productivity across the whole chain of value creation, e.g. within a complex engineering service setting.</dcterms:abstract>
+        <dc:title>Influence of task characteristics on team performance</dc:title>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_27">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/27/abs_all.html"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://ieeexplore.ieee.org.miman.bib.bth.se/xpls/abs_all.jsp?arnumber=7058744</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2015-10-09 10:42:36</dcterms:dateSubmitted>
+        <dc:title>IEEE Xplore Abstract Record</dc:title>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_26">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/26/Przybysz et al. - 2014 - Influence of task characteristics on team performa.pdf"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://ieeexplore.ieee.org.miman.bib.bth.se/ielx7/7048056/7058583/07058744.pdf?tp=&amp;arnumber=7058744&amp;isnumber=7058583</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2015-10-09 10:42:32</dcterms:dateSubmitted>
+        <dc:title>IEEE Xplore Full Text PDF</dc:title>
+    </z:Attachment>
+</rdf:RDF>

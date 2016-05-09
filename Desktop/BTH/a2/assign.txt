@@ -1,0 +1,91 @@
+Overall grade===
+- Summation of The Points: 2+1+4+2+4+3+2+3+3=24/36= 67% (Grade D)
+- Key Feedback Points
+Research method is justified with reference, that is good
+Research gap needs to be properly identified and presented
+Plan should include experiment related tasks as well
+Why AKS and Miller Rabin Algorithms ?
+===Contents===
+Problem identification and formulation: 2
+- Practical problem + context: 2
+Why algorithms, such as Miller-Rabin, that produce probabilistic results is a problem? Or what problems will deterministic algorithm solve?
+
+- Description of state-of-art (summary): 2
+Are there any studies on Miller-Robin Algorithm? With which you want to compare your results
+Literature synthesis missing
+Evaluation: 1
+- Knowledge gap: 2
+Gap that you have identified on page 2: “…none of the papers that state such opinions actually invalidate the applicability of AKS algorithm for practical purposes”. It does not go well with the previous sentence.
+
+- Aims/objectives: 1
+Why comparing with Miller-Rabin?
+Why AKS as you mentioned in introduction that studies say that AKS is not feasible to apply on large numbers?
+RM not mentioned along with the aims and objective.
+Objective b appears redundant with a
+
+- RQs: 1
+RQ1 is not aligned with objectives
+Method selection and application: 4
+- Research methodology: 4
+RM is experiments and is justified as well
+- Sampling and data collection: 4
+Details about input sizes, input and sampling given.
+
+- Data analysis to answer the RQ: 4
+Planning: 2
+- reasonable for a 1-month work of 2 people: 2
+Proposed time and activity plan does not include activities related to experiment?
+
+- Risks known and under control: 2
+For each risk, four things needs to be specified i.e. likelihood, avoidance, impact and mitigation. For example what is your mitigation for risk 2?
+Risk mitigation should describe how would you mitigate the risk rather than just saying we will try to deal with the risk.
+===Presentation===
+Disposition: 4
+- TOC is according to template: 4
+- Expected contents are at the right place: 4
+Adherence to formal rules and templates: 3
+- template is used (formal part): 2
+It is not a degree project
+Write version number for your proposal e.g. 1
+
+- 4-5 page length: 4
+Description of work: 2
+- Tasks: e.g. work-breakdown structure or Gantt chart: 2
+Experiment design and conduct tasks?
+
+- Optional: division of work between group members
+Work division amongst group members not discussed
+Analysis and **argumentation**: 3
+- Credibility of research gap: 2
+Identified gap needs to be properly justified
+
+
+
+
+
+
+issue:what are the challenges
+what are the miti
+
+- Credibility and justification of good research method selection: 4
+
+- Credibility of the plan + risk management: 2
+Time/activity plan needs to include experiment in it
+For risk management, how about time constraints or other external risk factors other than validity threats?
+Language: 3
+- English grammar and spelling: 4
+- Style: 4
+- Presentation and use of the references: 1
+What is reference 5? Book?
+Reference 2 needs some edition.
+Reference for Miller-Rabin Algorithm?
+
+
+
+
+
+
+ Qualitative researchers typically rely on the following methods for 
+gathering information: Participant Observation, 
+Non-participant Observation, Field Notes, Reflexive Journals,
+ Structured Interview, Semi-structured Interview, Unstructured Interview, and Analysis of documents and materials.

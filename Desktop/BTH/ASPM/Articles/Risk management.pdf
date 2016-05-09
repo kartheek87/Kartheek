@@ -1,0 +1,444 @@
+<!DOCTYPE html>
+<!-- saved from url=(0364)http://uv3sv3ds3g.search.serialssolutions.com/?sid=EI:Compendex&issn=&date=2009&volume=&issue=&spage=480&epage=3&title=2009+International+Forum+on+Information+Technology+and+Applications+%28IFITA%29&atitle=The+application+of+risk+matrix+to+software+project+risk+management&aulast=Li&aufirst=Xiaosong&isbn=9780769536002&id=DOI:10.1109%2FIFITA.2009.542&ABBR=10867547 -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="UTF-8">
+    <meta http-equiv="cache-control" content="no-cache">
+    <meta http-equiv="pragma" content="no-cache">
+    <title>GetIT@BTH</title>
+    <link href="./Risk management_files/bootstrap.min.css" rel="stylesheet" type="text/css">
+    <link href="./Risk management_files/newUI-sidebar.css" rel="stylesheet" type="text/css">
+    <link href="./Risk management_files/font-awesome.min.css" rel="stylesheet">
+
+    <style>
+        
+        
+        
+        
+        
+        
+    </style>
+
+<script id="altmetric-embed-js" src="./Risk management_files/altmetric_badges-f4807526480eb5e05b31100f4a8fbb07.js"></script><link rel="stylesheet" href="./Risk management_files/author-resolver4.css"><script type="text/javascript" src="./Risk management_files/people"></script></head>
+
+<body dir="ltr">
+
+
+
+
+<script type="text/javascript">
+	var CustomTexts = {
+		quickBibErrorMessage: 'Kunde inte hitta källangivelse. Försök igen eller använd källangivelsen nedan.',
+		
+		articleTitle: 'Kapitel:',
+		author:       'Författare:',
+		book:         'Bok',
+		chapter:      'Kapitel:',
+		title:        'Bok',
+		publisher:    'Utgivare:',
+		patentNumber: 'Patent #:',
+		inventor:     'Uppfinnare:',
+		institution:  'Institution:',
+        place:        'Ort:',
+		advisor:      'Handläggare:',
+		issn:         'ISSN: ',
+		isbn:         'ISBN: ',
+		date:         'Datum',
+		pubdate:      'Datum',
+		volume:       'Volym:',
+		issue:        'Häfte:',
+		pages:        'Sida:',
+		pmid:         'PMID:',
+		doi:          'DOI:'
+	};
+</script>
+
+<!--
+<div class="modal fade" id="qatool" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h4 class="modal-title" id="myModalLabel">QA Tool</h4>
+      </div>
+      <div class="modal-body">
+        <table class="table">
+          <thead>
+            <tr>
+              <th>Log</th>
+            </tr>
+          </thead>
+          <tbody id="qatool-body-table">
+            <tr><td></td></tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+-->
+
+<div id="iframeContainer" class="content" style="margin-right: 30px;">
+    <iframe id="website" src="./Risk management_files/stamp.html"></iframe>
+</div>
+
+<div id="oneClickExcludeContainer" class="content hide" style="display: none; margin-right: 30px;">
+    <div class="one-click-exclude-message">
+        <a id="oneClickExclude" href="" target="_blank">Klicka på länken för att öppna den valda resursen i ett nytt fönster.</a>
+    </div>
+</div>
+
+<div class="sidebar" style="width: 30px; overflow-y: hidden;">
+
+<h1 class="accessibility-hidden">This is the 360 Link Sidebar Helper frame - use this to find other links to this content or links to additional library resources</h1>
+
+<div class="controls hide" style="display: block;">
+    <br>
+    <div class="breakout" style="text-align: center;">
+        <i class="icon-remove-sign"></i>
+    </div>
+    <div class="hide-sidebar" style="text-align: center;">
+        <i class="icon-chevron-sign-left"></i>
+    </div>
+    <div class="sidebar-collapsed-clickable">
+        
+            <div class="sidebar-collapsed-image">
+                <img src="./Risk management_files/sidebar.gif" alt="expand sidebar">
+            </div>
+        
+    </div>
+</div>
+
+<div class="header" style="display: none;">
+    <div class="row-fluid section-no-border">
+        <div class="span2">&nbsp;</div>
+        <div class="university-logo span8">
+            
+                
+                    <a href="http://www.bth.se/bib" target="_blank">
+                
+                <img border="none" src="./Risk management_files/90ebth120.gif" alt="Blekinge Tekniska Högskolas logotyp" title="Blekinge Tekniska Högskola">
+                
+                    </a>
+                
+            
+            
+        </div>
+        <div class="span2">
+            <div class="breakout">
+                <i class="icon-remove-sign"></i>
+            </div>
+            <div class="hide-sidebar">
+                <i class="icon-chevron-sign-right"></i>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="inner" style="display: none;">
+
+<div class="row-fluid section"><!-- START Citation Data -->
+
+    
+        <div class="row-fluid">
+            <div class="span12 title">
+                The Application of Risk Matrix to Software Project Risk Management
+            </div>
+        </div>
+    
+			
+	<span class="citation-data">
+	
+		
+	        <div class="row-fluid">
+	            <div class="span3">
+	                Författare:
+	            </div>
+	            <div class="span9">
+	                <span class="hcite"><span class="title" style="display:none;">The Application of Risk Matrix to Software Project Risk Management</span><span class="uid"><span class="type" title="doi"></span><span class="value" title="10.1109/IFITA.2009.542"></span></span><span class="creator vcard"><span class="n"><span class="fn"><span class="family-name">Xiaosong</span>,<span class="given-name"> Li</span></span></span></span></span>
+	            </div>
+	        </div>
+	    
+				
+		<div class="row-fluid">
+	        <div class="span3">
+	            Bok
+	        </div>
+	        <div class="span9">
+	            Information Technology and Applications, Proceedings
+	        </div>
+	    </div>
+		
+		
+	        <div class="row-fluid">
+	            <div class="span3">
+	                Utgivare:
+	            </div>
+	            <div class="span9">
+	                IEEE Computer Society Press
+	            </div>
+	        </div>
+	    
+				
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	        <div class="row-fluid">
+	            <div class="span3">
+	                ISBN: 
+	            </div>
+	            <div class="span9">
+	                0-7695-3600-X, 978-0-7695-3600-2
+	            </div>
+	        </div>
+	    
+		
+		
+	        <div class="row-fluid">
+	            <div class="span3">
+	                Datum
+	            </div>
+	            <div class="span9">
+	                2009/05
+	            </div>
+	        </div>
+	    
+		
+		
+		
+		
+		
+		
+	        <div class="row-fluid">
+	            <div class="span3">
+	                Sida:
+	            </div>
+	            <div class="span9">
+	                480-483
+	            </div>
+	        </div>
+	    
+				
+		
+		
+		
+	        <div class="row-fluid">
+	            <div class="span3">
+	                DOI:
+	            </div>
+	            <div class="span9">
+	                10.1109/IFITA.2009.542
+	            </div>
+	        </div>
+	    
+	
+	</span>
+	
+	
+		<script type="text/javascript" src="./Risk management_files/embed.js"></script>
+		<div class="altmetric-embed altmetric-hidden" data-hide-less-than="1" data-badge-type="4" data-badge-popover="left" data-link-target="_blank" data-doi="10.1109/IFITA.2009.542" data-pmid="" data-template="proquest360link" data-uuid="4af9868d-7336-6a38-13c2-a6955775c01a"></div>
+   	
+	
+	<!-- START SYNDETICS AND ULRICHS -->
+    
+   	<!-- END SYNDETICS AND ULRICHS -->
+
+</div><!-- END Citation Data -->
+
+<div class="row-fluid section">
+
+    <div id="source-control">
+    	<a href="" class="link-for-screenreaders">
+        	<span id="source">IEEE/IET Electronic Library (IEL) Proceedings By Volume</span><span class="info">ⓘ</span>
+        	<span class="source-open  caret-plain"><i class="icon-caret-down"></i></span>
+        	<span class="source-close hide caret-plain"><i class="icon-caret-up"></i></span>
+       	</a>
+    </div>
+
+    <div class="hide">
+        <div id="browse-journal-text" class="hide">Sök i journal</div>
+        <div id="link-to-book-text" class="hide">Länk till bok</div>
+        <div id="browse-link"><a href="http://uv3sv3ds3g.search.serialssolutions.com/?sid=EI:Compendex&issn=&date=2009&volume=&issue=&spage=480&epage=3&title=2009+International+Forum+on+Information+Technology+and+Applications+%28IFITA%29&atitle=The+application+of+risk+matrix+to+software+project+risk+management&aulast=Li&aufirst=Xiaosong&isbn=9780769536002&id=DOI:10.1109%2FIFITA.2009.542&ABBR=10867547#">Länk till bok</a></div>
+        <div id="coverage-range"></div>
+
+        <div class="note" id="all-title-note">
+            
+        </div>
+        <div class="note" id="public-note">
+            
+        </div>
+        <div class="note" id="title-holding-note">
+            
+        </div>
+        <div class="note" id="title-location-note">
+            
+        </div>
+
+        
+    </div>
+
+    <div id="browse-journal-message" style="display: none;">
+        Sök i onlinejournalen på utgåva eller volymnummer för att hitta objektet.
+    </div>
+
+    <div class="row-fluid  hidden">
+        
+	        <div id="source-menu-header">
+	        	Även tillgänglig online från:
+	        </div>
+            <label for="linksToContent" class="accessibility-hidden">Testa en annan källa</label>
+            <select id="linksToContent">
+                <option value="0">
+                    Testa en annan källa
+                </option>
+                
+                
+                
+                
+                    
+                        <option value="./log?L=UV3SV3DS3G&amp;D=6IE&amp;J=TC0000558420&amp;P=Link&amp;U=http%3A%2F%2Fmiman.bib.bth.se%2Flogin%3Furl%3Dhttp%3A%2F%2Fdx.doi.org%2F10.1109%2FIFITA.2009.542" data-link-type="Chapter" data-range="" data-all-title-note="" data-public-note="" data-location-note="" data-holding-note="" data-book-link="./log?L=UV3SV3DS3G&amp;D=6IE&amp;J=TC0000558420&amp;P=Link&amp;U=http%3A%2F%2Fmiman.bib.bth.se%2Flogin%3Furl%3Dhttp%3A%2F%2Fieeexplore.ieee.org%2Fservlet%2Fopac%3Fpunumber%3D5231181" data-go-to-full-text="false" class="selected-resource">
+                            IEEE/IET Electronic Library (IEL) Proceedings By Volume
+                        </option>
+                    
+                
+                
+                
+            </select>
+        
+    </div>
+
+    
+        <a href="" id="link-not-working">
+            Rapportera ett problem
+        </a>
+    
+    
+    
+
+</div>
+
+
+
+
+
+
+
+
+
+<div class="email-confirmation hide"></div>
+
+
+
+
+    <div class="row-fluid section-no-border locale">
+        <label for="locale" class="accessibility-hidden">Language</label>
+        <select id="locale" class="locale-menu">
+            
+                
+                    
+                        <option value="sv-se" selected="selected">Svenska</option>
+                    
+                    
+                
+            
+                
+                    
+                    
+                        <option value="en-US">English</option>
+                    
+                
+            
+        </select>
+    </div>
+
+
+
+    <div class="row-fluid section-no-border additional-options">
+        <a href="" id="go-back">Fler alternativ</a>
+    </div>
+    <input type="hidden" id="additionalOptionsLinkToNewUI" value="false">
+
+
+
+    <div class="report-problem-form hide">
+        <p>
+            Skicka in en rapport så undersöker vi problemet. Ange bara ditt namn och e-postadress om du vill bli kontaktad.
+        </p>
+        <label for="reportProblemName">Namn:</label>
+        <input type="text" id="reportProblemName">
+        <label for="reportProblemEmail">E-postadress:</label>
+        <input type="text" id="reportProblemEmail">
+        <label for="reportProblemMessage">Meddelande:</label>
+        <textarea rows="3" id="reportProblemMessage"></textarea>
+        <button class="btn report-problem-cancel">Avbryt</button>
+        <button class="btn btn-inverse report-problem-send">Skicka rapport</button>
+    </div>
+
+
+
+
+
+
+
+
+</div><!-- END inner -->
+</div><!-- END sidebar -->
+
+<div class="show-link hide">
+    <div class="show-link-close">Close X</div>
+    <div class="show-link-data"></div>
+</div>
+
+<div class="hide">
+    <form id="badLinkLoggingForm" name="badLinkLoggingForm">
+        <input type="text" name="badLink" id="badLink">
+        <input type="text" name="reportSource" id="reportSource">
+        <input type="text" name="linkType" id="linkType">
+        <input type="text" name="referringURL" id="referringURL">
+        <input type="text" name="resourceName" id="resourceName">
+        <input type="text" name="patronName" id="patronName">
+        <input type="text" name="patronEmail" id="patronEmail">
+        <input type="text" name="patronMessage" id="patronMessage">
+        <input type="text" name="sendEmailEnabled" id="sendEmailEnabled" value="true">
+        <input type="text" name="libraryEmail" id="libraryEmail" value="biblioteket@bth.se">
+    </form>
+</div>
+
+<div class="bad-link-logging-confirmation hide">
+    Tack. Vi har loggat problemet.
+</div>
+
+<script src="./Risk management_files/jquery-1.11.1.min.js"></script>
+<script src="./Risk management_files/bootstrap.min.js"></script>
+<script src="./Risk management_files/URLUtilities.js"></script>
+<script src="./Risk management_files/newUI-common.js"></script>
+<script src="./Risk management_files/newUI-sidebar.js"></script>
+
+    <script type="text/javascript" src="./Risk management_files/prototype-1.6.0.1.js"></script>
+    <script type="text/javascript" src="./Risk management_files/author-resolver.js"></script>
+
+
+    <script>
+        jQuery(function($){
+            setTimeout("autoCollapseSidebar();", 5000);
+        });
+    </script>
+
+
+
+
+
+<script src="./Risk management_files/app.js"></script>
+
+
+
+<script type="text/javascript" src="./Risk management_files/ifita.2009.542"></script></body></html>

@@ -1,0 +1,8 @@
+The tasks done :
+1 Topics (Ideas) related to web development are presented. 
+2 Checked whether the ideas r already implemented or  not.
+3 Topics are sorted out based on  benefits to Investor, website owner, Customer.
+4 Through some Estimationtechniques like Planning poker factors like the effort needed, complexity for developing the code.
+5 Meetings 
+6 Finally 1 topic is sleceted and finalized to srt on this 
+   

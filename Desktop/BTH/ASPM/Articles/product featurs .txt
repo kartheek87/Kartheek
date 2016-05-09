@@ -1,0 +1,45 @@
+
+
+DYNAMIC FOOD MANAGMENT FEATURES 
+website name : 1. www.productivefoodservices.com
+               2. www.foodinfo.com
+               3. www.foodsavers.com
+               4. 
+
+1. SELECTION OF THE STORE
+2. SELECTION OF TYPE OF PRODUCT
+3. QUANTITY OF THE PRODUCT 
+4. AVALIBLITY OF THE PRODUCT IN EVERY STORE
+5. NEW OFFERS (main home page)
+6. pictures 
+7. 4 days span 
+8. offers starts 
+9. further subscription 
+10. data base managment
+11. publicity (coupons discount.. through email)
+12. service satisfaction 
+13. rating and feedback 
+14. sprint break down 
+15. login 
+16. Signup registration 
+17.  
+FUTURE WORK QUANTITY CAN BE ADDED 
+
+PRODUCT 
+DAIRY PRODUCTS 
+VEGETABLES 
+MEAT 
+
+
+SPRINT 1:
+ 1,2,4,5,7,8
+SPRINT 2:
+6,9
+
+
+ASSUMptions 
+DEMAND IN THE MARKET 
+CUSTOMERS AVAILABILTY 
+QUANTITY UPDATES 
+
+

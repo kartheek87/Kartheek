@@ -1,0 +1,69 @@
+===Contents===
+Problem identification and formulation: 1
+- Practical problem + context: 0
+• No problem is identified in the introduction
+
+- Description of state-of-art (summary): 2
+• Relevant references are cited to cover state of the art but literature is not synthesized.
+Evaluation: 1
+- Knowledge gap: 1
+• Knowledge gap is not identified explicitly.
+
+- Aims/objectives: 1
+• Why framework?
+• First three objectives can be grouped to form a single objective.
+• SLR not acceptable for A3
+
+- RQs: 2
+• Since RQ 1 and 2 are planned to be addressed via SLR, which is not acceptable. You effectively have one question i.e. RQ 3.
+Method selection and application: 2
+- Research methodology: 2
+• You have provided some details about your RM, which is good.
+• Why open ended questions?
+- Sampling and data collection: 1
+• Sampling method or details not described, just a vague sentence at the end of RM section provided.
+• Questionnaire is the data collection tool but its use is not justified.
+
+- Data analysis to answer the RQ: 3
+• GT is selected as the analysis method and a reference is also provided to justify the choice.
+Planning: 2
+- reasonable for a 1-month work of 2 people: 1
+• Literature review part not reviewed.
+
+- Risks known and under control: 2
+• For each risk, four things needs to be specified i.e. likelihood, avoidance, impact and mitigation.
+• Risks related to SLR not reviewed
+===Presentation===
+Disposition: 4
+- TOC is according to template: 4
+- Expected contents are at the right place: 4
+Adherence to formal rules and templates: 4
+- template is used (formal part): 3
+• Classification of title not appropriate.
+
+- 4-5 page length: 4
+Description of work: 2
+- Tasks: e.g. work-breakdown structure or Gantt chart: 2
+• Literature review part not reviewed.
+• Only three days for validating and finalizing the project report?
+
+- Optional: division of work between group members
+• Work division amongst group members not discussed
+Analysis and **argumentation**: 2
+- Credibility of research gap: 1
+• Research gap is not appropriately presented and justified.
+
+- Credibility and justification of good research method selection: 1
+• Data analysis method is justified.
+• RM (i.e. survey) is still not justified properly.
+• Sampling and data collection methods are also not justified.
+
+- Credibility of the plan + risk management: 2
+• Both risk and time plan needs revisions.
+Language: 2
+- English grammar and spelling: 2
+• Needs to be improved
+- Style: 2
+• Use numbers instead of bullets e.g. time plan, objectives and risks.
+- Presentation and use of the references: 3
+• Completely describe references e.g. place for conference reference.
